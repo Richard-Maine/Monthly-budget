@@ -1,86 +1,126 @@
-[
-  {
-    "Category": "Rent",
-    "Budget": 870,
-    "Actual Spent": 1248,
-    "Month": "Mar",
-    "Remarks": "Under Budget"
-  },
-  {
-    "Category": "Transport",
-    "Budget": 758,
-    "Actual Spent": 484,
-    "Month": "Mar",
-    "Remarks": "On Track"
-  },
-  {
-    "Category": "Rent",
-    "Budget": 1161,
-    "Actual Spent": 732,
-    "Month": "Feb",
-    "Remarks": "Over Budget"
-  },
-  {
-    "Category": "Utilities",
-    "Budget": 1137,
-    "Actual Spent": 222,
-    "Month": "Jan",
-    "Remarks": "Under Budget"
-  },
-  {
-    "Category": "Utilities",
-    "Budget": 999,
-    "Actual Spent": 217,
-    "Month": "Feb",
-    "Remarks": "On Track"
-  },
-  {
-    "Category": "Transport",
-    "Budget": 1389,
-    "Actual Spent": 476,
-    "Month": "Jan",
-    "Remarks": "Under Budget"
-  },
-  {
-    "Category": "Groceries",
-    "Budget": 640,
-    "Actual Spent": 1190,
-    "Month": "Jan",
-    "Remarks": "Over Budget"
-  },
-  {
-    "Category": "Utilities",
-    "Budget": 912,
-    "Actual Spent": 1327,
-    "Month": "Feb",
-    "Remarks": "Over Budget"
-  },
-  {
-    "Category": "Transport",
-    "Budget": 417,
-    "Actual Spent": 1369,
-    "Month": "Feb",
-    "Remarks": "On Track"
-  },
-  {
-    "Category": "Utilities",
-    "Budget": 1139,
-    "Actual Spent": 684,
-    "Month": "Mar",
-    "Remarks": "Over Budget"
-  },
-  {
-    "Category": "Transport",
-    "Budget": 1162,
-    "Actual Spent": 1479,
-    "Month": "Apr",
-    "Remarks": "Over Budget"
-  },
-  {
-    "Category": "Utilities",
-    "Budget": 831,
-    "Actual Spent": 724,
-    "Month": "Mar",
-    "Remarks": "Over Budget"
-  }
-]
+{
+  "company": "TechNova Solutions",
+  "generated_at": "2026-02-16T10:30:00Z",
+  "employees": [
+    {
+      "id": 101,
+      "name": "Chloe Allen",
+      "department": "Sales",
+      "performance_score": 88,
+      "salary": 5200,
+      "location": {
+        "city": "New York"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Ruby Scott",
+      "department": "Marketing",
+      "performance_score": 92,
+      "salary": 6100,
+      "location": {
+        "city": "Chicago"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Ava Martin",
+      "department": "Engineering",
+      "performance_score": 95,
+      "salary": 7500,
+      "location": {
+        "city": "San Francisco"
+      }
+    },
+    {
+      "id": 104,
+      "name": "John Parker",
+      "department": "Finance",
+      "performance_score": 84,
+      "salary": 6800,
+      "location": {
+        "city": "Boston"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Liam Johnson",
+      "department": "Engineering",
+      "performance_score": 90,
+      "salary": 7200,
+      "location": {
+        "city": "Seattle"
+      }
+    },
+    {
+      "id": 106,
+      "name": "Emma Davis",
+      "department": "HR",
+      "performance_score": 85,
+      "salary": 5400,
+      "location": {
+        "city": "Austin"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Noah Wilson",
+      "department": "Sales",
+      "performance_score": 87,
+      "salary": 5600,
+      "location": {
+        "city": "Denver"
+      }
+    },
+    {
+      "id": 108,
+      "name": "Olivia Martinez",
+      "department": "Marketing",
+      "performance_score": 91,
+      "salary": 6000,
+      "location": {
+        "city": "Los Angeles"
+      }
+    },
+    {
+      "id": 109,
+      "name": "William Anderson",
+      "department": "Finance",
+      "performance_score": 83,
+      "salary": 6700,
+      "location": {
+        "city": "Miami"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Sophia Thomas",
+      "department": "Engineering",
+      "performance_score": 96,
+      "salary": 7800,
+      "location": {
+        "city": "San Diego"
+      }
+    },
+    {
+      "id": 111,
+      "name": "James Taylor",
+      "department": "IT",
+      "performance_score": 89,
+      "salary": 6400,
+      "location": {
+        "city": "Phoenix"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Isabella Moore",
+      "department": "HR",
+      "performance_score": 86,
+      "salary": 5500,
+      "location": {
+        "city": "Dallas"
+      }
+    }
+  ]
+}
